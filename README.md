@@ -1,3 +1,3 @@
 # Malvabizco
 
-Este es mi repositorio persoal, aqui voy a estar subiendo mis proyectos y pruebas
+Este es mi repositorio personal, aqui voy a estar subiendo mis proyectos y pruebas
